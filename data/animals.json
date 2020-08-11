@@ -115,6 +115,15 @@
       "diet": "carnivore",
       "personalityTraits": [],
       "id": "11"
+    },
+    {
+      "name": "Bill",
+      "species": "Squirrel",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "quirky"
+      ],
+      "id": "12"
     }
   ]
 }
