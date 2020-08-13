@@ -124,6 +124,24 @@
         "quirky"
       ],
       "id": "12"
+    },
+    {
+      "name": "Anne",
+      "species": "Toucan",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Sam",
+      "species": "Toucan",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
